@@ -9,4 +9,5 @@ The aim of the work is to develop and study methods for determining the coordina
 
 ## Trajectories
 
-![Trajectories](trajectories.png)
+![Trajectories](images/trajectories.png)
+
