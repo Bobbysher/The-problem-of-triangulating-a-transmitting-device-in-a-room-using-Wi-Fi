@@ -8,6 +8,4 @@ The subject of the research is algorithms for estimating subscriber coordinates 
 The aim of the work is to develop and study methods for determining the coordinates of a transmitting device indoors based on Wi-Fi signals, as well as a comparative analysis of positioning algorithms in conditions of noise and dynamic movement of the subscriber.
 
 ## Trajectories
-
-![Trajectories]
-<img src="images/trajectories.png" width="200">
+<img src="images/trajectories.png" width="300">
